@@ -18,6 +18,7 @@ The repository does **not** include the original game, installation media, or co
 
 ## Repository Contents
 
+* External archive.org links with community-preserved archival copies.
 * Installation guides for modern systems.
 * Official updates for 2000–2002 releases.
 * Modern compatibility fixes, including a replacement executable for newer Windows versions.
@@ -47,7 +48,7 @@ The original games are no longer commercially available. For cultural preservati
 * [Gold edition (2002)](https://archive.org/details/flaklypagullutgave)
 * [Other versions and new uploads](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix)
 
-### Installation Guide: Gold Edition (2002) (Windows 11)
+### Installation Guide: Gold Edition (2002)
 
 1. Mount the CD files with [WinCDEmu](https://wincdemu.sysprogs.org/) (or extract with [Universal Extractor](https://github.com/bioruebe/uniextract2)) and install in this order:
     * FGPGULL1.mdf (CD1 Hvit, white)
@@ -92,7 +93,7 @@ De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av 
 * [Gullutgave (2002)](https://archive.org/details/flaklypagullutgave)
 * [Andre versjoner og nye opplastinger](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix)
 
-### Installasjonsguide: Gullutgave (2002) (Windows 11)
+### Installasjonsguide: Gullutgave (2002)
 
 1. Monter CD-filene med [WinCDEmu](https://wincdemu.sysprogs.org/) (eller pakk dem ut med [Universal Extractor](https://github.com/bioruebe/uniextract2)) og installer i denne rekkefølgen:
     * FGPGULL1.mdf (CD1 Hvit)
@@ -120,6 +121,7 @@ Anbefalt oppsett er nå fullført.
 
 ## Troubleshooting & Known Issues
 
+* **[PCGamingWiki Page for more info](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) (if you have more issues see the glossary page for potential workarounds, also includes, shortcuts, minigame location guide, savegame location, cheats)
 * **Multiple Monitors:** Use dgVoodoo2 to force the game into a borderless windowed mode.
 * **Steam Overlay/Controllers:** If you add the game as a non-steam game to use controller configurations, the Windows XP compatibility setting causes the `.exe` to run as administrator. This requires **Steam to also run as administrator** for the overlay and controller input to be detected.
 
@@ -130,8 +132,8 @@ Anbefalt oppsett er nå fullført.
 ### Flåklypa Resources
 
 * [PCGamingWiki Page](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)
-* [Original Reddit Guide](https://www.reddit.com/r/norge/comments/1te4r5i/vi_vil_kj%C3%B8pe_det_originale_fl%C3%A5klypa_spillet_det/). Deleted by filters, i believe due to too much editing long after posting.
 * [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Primary source for official updates.
+* [Guide for minigame locations](https://imgur.com/gallery/norwegian-game-fl-klypa-grand-prix-2000-guide-to-find-all-minigames-activities-https-www-reddit-com-r-norge-comments-1te4r5i-Y44AtiM)
 
 ### Wiki References
 
