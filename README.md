@@ -52,9 +52,9 @@ The original games are no longer commercially available. For cultural preservati
     * FGPGULL2.mdf (CD2 Svart, black)
     * FGPGULL1.mdf (CD1 Hvit, white) again.
 2. Update with `FGPGOLD_UPD12.exe` – [FlåklypaFix for all updates](https://sites.google.com/view/flaklypafix/).
-3. Replace `FGP.exe` in `C:\Program Files (x86)\Flåklypa Grand Prix` with the modern compatibility executable included in this repository or in the archive itself. Create a desktop shortcut if desired.
+3. Replace `FGP.exe` in `C:\Program Files (x86)\Flåklypa Grand Prix` with the modern compatibility executable included in this repository or in the archive itself.
 
-> **Basic installation complete. You can play now.**
+> **Basic installation complete. You can play now.** Create a desktop shortcut if desired. 
 >
 > If the game does not start, enable Windows XP [compatibility mode](https://imgur.com/pPUNzuL) on the executable.
 
@@ -95,9 +95,9 @@ De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av 
     * FGPGULL2.mdf (CD2 Svart)
     * FGPGULL1.mdf (CD1 Hvit) igjen.
 2. Oppdater med `FGPGOLD_UPD12.exe` – [FlåklypaFix for alle oppdateringer](https://sites.google.com/view/flaklypafix/)
-3. Erstatt `FGP.exe` i `C:\Program Files (x86)\Flåklypa Grand Prix` med den moderne kompatibilitetsversjonen som du kan laste ned her eller medfølgende i arkivet. (Lag gjerne en snarvei til skrivebordet.)
+3. Erstatt `FGP.exe` i `C:\Program Files (x86)\Flåklypa Grand Prix` med den moderne kompatibilitetsversjonen som du kan laste ned her eller medfølgende i arkivet.
 
-> **Grunnleggende installasjon fullført. Du kan spille nå.**
+> **Grunnleggende installasjon fullført. Du kan spille nå.** Lag gjerne en snarvei til skrivebordet. 
 >
 > Hvis spillet ikke starter, bruk Windows XP [kompatibilitetsmodus](https://imgur.com/pPUNzuL) på `.exe`-filen.
 
