@@ -31,7 +31,7 @@ Users are responsible for ensuring they have the legal right to use any software
 
 ---
 
-## 🇬🇧 English Documentation
+## 🇬🇧 English (Norwegian below)
 
 ### Preserving Norwegian Game History and digital cultural heritage
 
@@ -78,7 +78,7 @@ Recommended setup is now complete.
 
 ---
 
-## 🇳🇴 Norsk informasjon (Norwegian)
+## 🇳🇴 Norsk (Norwegian)
 
 ### Bevaring av norsk spillhistorie og digital kulturarv
 
