@@ -30,7 +30,9 @@ The repository does **not** include the original game, installation media, or co
 
 ### Preserving Norwegian Game History and digital cultural heritage
 
-This is a personal effort to document and preserve part of Norway's digital gaming heritage. Many older Norwegian PC games are no longer commercially available and risk being lost without community documentation, public archives, or institutional preservation efforts. Games that can no longer be purchased should be considered important candidates for archiving through institutions such as the National Library of Norway (*Nasjonalbiblioteket*), rather than relying solely on volunteers and Archive.org.
+This is a personal effort to document and preserve part of Norway's digital gaming heritage. Many older Norwegian PC games are no longer commercially available and risk being lost without community documentation, public archives, or institutional preservation efforts. 
+
+Games that can no longer be purchased should be considered for archiving through institutions such as the National Library of Norway (*Nasjonalbiblioteket*), rather than relying solely on volunteers and Archive.org.
 
 More interest in projects like the [GOG Dreamlist](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000) can help demonstrate continued interest in preserving these games. Better availability of older versions could also generate renewed interest in modern re-releases and remakes such as *[Pinchcliffe Grand Prix (2021)](https://store.steampowered.com/app/3352670)*.
 
@@ -75,7 +77,9 @@ Recommended setup is now complete.
 
 ### Bevaring av norsk spillhistorie og digital kulturarv
 
-Dette prosjektet er et personlig initiativ for å dokumentere og bevare en del av norsk digital spillhistorie. Mange eldre norske PC-spill er ikke lenger kommersielt tilgjengelige og risikerer å gå tapt uten dokumentasjon, offentlige arkivløsninger eller institusjonelle bevaringstiltak. Spill som ikke lenger er tilgjengelige for salg bør være kandidater for offentlig arkivering gjennom institusjoner som Nasjonalbiblioteket, fremfor å være avhengige av frivillige initiativer og Archive.org alene.
+Dette prosjektet er et personlig initiativ for å dokumentere og bevare en del av norsk digital spillhistorie. Mange eldre norske PC-spill er ikke lenger kommersielt tilgjengelige og risikerer å gå tapt uten dokumentasjon, offentlige arkivløsninger eller institusjonelle bevaringstiltak. 
+
+Spill som ikke lenger er tilgjengelige for salg burde bli offentlig arkivert gjennom institusjoner som Nasjonalbiblioteket, fremfor å være avhengige av frivillige initiativer og Archive.org alene.
 
 Større interesse for prosjekter som [GOG Dreamlist](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000) kan vise at det fortsatt finnes interesse for å bevare disse spillene. Bedre tilgjengelighet av eldre versjoner kan også bidra til økt interesse for moderne nyutgivelser, eller remakes som *[Flåklypa Grand Prix (2021)](https://store.steampowered.com/app/3352670)*.
 
