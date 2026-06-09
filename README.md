@@ -126,7 +126,7 @@ Anbefalt oppsett er nå fullført.
 ### Flåklypa Resources
 
 * [PCGamingWiki Page](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)
-* [Original Reddit Guide](https://www.reddit.com/r/norge/comments/1te4r5i/vi_vil_kj%C3%B8pe_det_originale_fl%C3%A5klypa_spillet_det/)
+* [Original Reddit Guide](https://www.reddit.com/r/norge/comments/1te4r5i/vi_vil_kj%C3%B8pe_det_originale_fl%C3%A5klypa_spillet_det/). Deleted by filters, i believe due to too much editing long after posting.
 * [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Primary source for official updates.
 
 ### Wiki References
