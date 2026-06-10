@@ -93,7 +93,7 @@ Hvis offisielle nyutgivelser eller remastere blir tilgjengelige på GOG eller St
 
 ### Tilgang til spillet
 
-De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av kulturarv, er det arkivert fellesskapsarkiverte kopier på Archive.org:
+De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av kulturarv, er det fellesskapsarkiverte kopier på Archive.org:
 
 * [Gullutgave (2002)](https://archive.org/details/flaklypagullutgave)
 * [Andre versjoner og nye opplastinger](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix)
