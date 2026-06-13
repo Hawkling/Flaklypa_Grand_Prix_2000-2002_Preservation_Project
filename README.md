@@ -157,7 +157,7 @@ Anbefalt oppsett er nå fullført.
 
 ## Credits and Contributions
 
-Thanks to everyone who has contributed information, research, compatibility fixes, and preservation efforts for Norwegian PC games. 
+Thanks to everyone who has contributed information, research, compatibility fixes, and preservation efforts for Norwegian PC games. Especially mullemekk on archive.org for the current available archived version. 
 
 Corrections, historical documentation, compatibility reports, and technical research are welcome.
 
