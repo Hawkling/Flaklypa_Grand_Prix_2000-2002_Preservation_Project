@@ -26,7 +26,7 @@ Users are responsible for ensuring they have the legal right to use any software
 * Samle offisielle oppdateringer og historisk dokumentasjon.
 * Forbedre kompatibiliteten med moderne Windows-versjoner.
 * Bevare dokumentasjon for de originale utgivelsene.
-* Oppdatering av [Wikipedia]([url](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill))) og [PCGamingWiki]([url](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix))
+* Forbedring av [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) og [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) artikler.
 
 ---
 
@@ -64,7 +64,7 @@ De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av 
     * FGPGULL1.mdf (CD1 Hvit)
     * FGPGULL2.mdf (CD2 Svart)
     * FGPGULL1.mdf (CD1 Hvit) igjen.
-2. Oppdater med `FGPGOLD_UPD12.exe` - Offisiel oppdatering [FlåklypaFix](https://sites.google.com/view/flaklypafix/)
+2. Oppdater med `FGPGOLD_UPD12.exe` - Offisiell oppdatering [FlåklypaFix](https://sites.google.com/view/flaklypafix/)
 3. Erstatt `FGP.exe` i `C:\Program Files (x86)\Flåklypa Grand Prix` med den moderne kompatibilitetsversjonen: [replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases).
 
 > **Grunnleggende installasjon fullført. Du kan spille nå.** Lag gjerne en snarvei til skrivebordet. 
@@ -94,7 +94,7 @@ Mer info på bunn av siden.
 * Collect official updates and historical information.
 * Improve compatibility with modern Windows systems.
 * Preserve documentation for the original releases.
-* Updating [Wikipedia]([url](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill))) and [PCGamingwiki]([url](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix))
+* Improving the [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) and [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) articles.
 
 ---
 
