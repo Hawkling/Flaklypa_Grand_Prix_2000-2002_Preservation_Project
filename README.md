@@ -20,24 +20,32 @@ Users are responsible for ensuring they have the legal right to use any software
 
 ---
 
-## Repository Contents
+## 🇳🇴 Prosjektmål (English below)
 
-* Installation guides for modern systems.
-* Official updates for 2000-2002 releases.
-* Compatibility-focused replacement executable for modern Windows systems.
-* References to external preservation resources, including Archive.org.
-* dgVoodoo2 configuration notes.
-* Links to my other projects: Norwegian Game Preservation and industry exposure.
+* Bidra til å bevare og gjøre en viktig del av norsk spillhistorie tilgjengelig.
+* Samle offisielle oppdateringer og historisk dokumentasjon.
+* Forbedre kompatibiliteten med moderne Windows-versjoner.
+* Bevare dokumentasjon for de originale utgivelsene.
+* Oppdatering av Wikipedia og PCGamingWiki
 
 ---
 
-## 🇳🇴 Norsk (English below)
+## Innhold i arkivet
 
-### Bevaring av norsk spillhistorie og digital kulturarv
+* Installasjonsveiledning for moderne operativsystemer.
+* Offisielle oppdateringer for 2000–2002-utgavene.
+* Erstatningsfil (FGP.exe) for moderne Windows kompatibilitet.
+* Referanser til eksterne arkiveringsressurser, inkludert Archive.org.
+* dgVoodoo2 konfigurasjon.
+* Lenker til mine andre prosjekter: Norsk spillbevaring og synliggjøring av norske spill.
+
+---
+
+###  Bevaring av norsk spillhistorie og digital kulturarv
 
 Dette prosjektet er et personlig initiativ for å dokumentere og bevare en del av norsk digital spillhistorie. Mange eldre norske PC-spill er ikke lenger kommersielt tilgjengelige og risikerer å gå tapt uten dokumentasjon, offentlige arkivløsninger eller institusjonelle bevaringstiltak. 
 
-Spill som ikke lenger er tilgjengelige for salg burde bli offentlig arkivert gjennom institusjoner som Nasjonalbiblioteket, fremfor å være avhengige av frivillige initiativer og Archive.org alene.
+Spill som ikke lenger er tilgjengelige for salg bør bli offentlig arkivert gjennom institusjoner som Nasjonalbiblioteket, fremfor å være avhengige av frivillige initiativer og Archive.org alene.
 
 Større interesse for prosjekter som [GOG Dreamlist](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000) kan vise at det fortsatt finnes interesse for å bevare disse spillene. Bedre tilgjengelighet av eldre versjoner kan også bidra til økt interesse for moderne nyutgivelser, eller remakes som *[Flåklypa Grand Prix (2021)](https://store.steampowered.com/app/3352670)*.
 
@@ -56,7 +64,7 @@ De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av 
     * FGPGULL1.mdf (CD1 Hvit)
     * FGPGULL2.mdf (CD2 Svart)
     * FGPGULL1.mdf (CD1 Hvit) igjen.
-2. Oppdater med `FGPGOLD_UPD12.exe` - kilde er [FlåklypaFix](https://sites.google.com/view/flaklypafix/)
+2. Oppdater med `FGPGOLD_UPD12.exe` - Offisiel oppdatering [FlåklypaFix](https://sites.google.com/view/flaklypafix/)
 3. Erstatt `FGP.exe` i `C:\Program Files (x86)\Flåklypa Grand Prix` med den moderne kompatibilitetsversjonen: [replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases).
 
 > **Grunnleggende installasjon fullført. Du kan spille nå.** Lag gjerne en snarvei til skrivebordet. 
@@ -70,14 +78,36 @@ De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av 
 6. Åpne `dgVoodooCpl.exe`:
     * **General:** Scaling mode: *Unspecified* (16:9) eller *Keep aspect ratio* (4:3).
     * **[DirectX](https://imgur.com/BzplWw1):** Velg ønsket oppløsning og slå av "dgVoodoo Watermark".
-    * Høyreklikk, velg "Show all sections of the configuration
+    * Høyreklikk, velg "Show all sections of the configuration"
     * **[GeneralExt](https://imgur.com/mnglcos):** ", aktiver *Borderless*, *Fullscreen size* og *Fake*.
 
 Anbefalt oppsett er nå fullført.
 
+###
+Mer info på bunn av siden.
+
 ---
 
-## 🇬🇧 English
+## 🇬🇧 Project Goals
+
+* Help ensure that an important part of Norwegian game history remains accessible.
+* Collect official updates and historical information.
+* Improve compatibility with modern Windows systems.
+* Preserve documentation for the original releases.
+* Updating Wikipedia and PCGamingwiki
+
+---
+
+## Repository Contents
+
+* Installation guides for modern systems.
+* Official updates for 2000-2002 releases.
+* Replacement (FGP.exe) for modern Windows compatibility.
+* References to external preservation resources, including Archive.org.
+* dgVoodoo2 configuration.
+* Links to my other projects: Norwegian Game Preservation and improving visibility for Norwegian games.
+
+---
 
 ### Preserving Norwegian Game History and digital cultural heritage
 
@@ -91,9 +121,9 @@ If official re-releases become available on platforms such as GOG or Steam, purc
 
 ---
 
-### Obtaining the Game
+### Availability of the Game
 
-The original games are no longer commercially available. For cultural preservation, community-preserved archival copies can be found on Archive.org:
+The original games are no longer commercially available. Community-preserved archival copies are available on Archive.org for preservation purposes.
 
 * [Gold edition (2002)](https://archive.org/details/flaklypagullutgave)
 * [Other versions and new uploads](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix)
@@ -104,7 +134,7 @@ The original games are no longer commercially available. For cultural preservati
     * FGPGULL1.mdf (CD1 Hvit, white)
     * FGPGULL2.mdf (CD2 Svart, black)
     * FGPGULL1.mdf (CD1 Hvit, white) again.
-2. Update with `FGPGOLD_UPD12.exe` - sourced from [FlåklypaFix](https://sites.google.com/view/flaklypafix/).
+2. Update with `FGPGOLD_UPD12.exe` - Official update [FlåklypaFix](https://sites.google.com/view/flaklypafix/).
 3. Replace `FGP.exe` in `C:\Program Files (x86)\Flåklypa Grand Prix` with the modern compatibility [replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases).
 
 > **Basic installation complete. You can play now.** Create a desktop shortcut if desired. 
@@ -118,7 +148,7 @@ The original games are no longer commercially available. For cultural preservati
 6. Open `dgVoodooCpl.exe`:
     * **General:** Scaling mode: *Unspecified* (for 16:9) or *Keep aspect ratio* (for 4:3).
     * **[DirectX](https://imgur.com/BzplWw1):** Select your desired resolution and turn off "dgVoodoo Watermark."
-    *  Right-click and select "Show all sections of the configuration.
+    *  Right-click and select "Show all sections of the configuration."
     * **[GeneralExt](https://imgur.com/mnglcos):**" Enable *Borderless*, *Fullscreen size*, and *Fake*.
 
 Recommended setup is now complete.
@@ -128,7 +158,7 @@ Recommended setup is now complete.
 ## Troubleshooting & Known Issues
 
 * **[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)** (for other issues see the glossary pages for potential workarounds. Also includes: shortcuts, [minigame location guide]([url](https://imgur.com/gallery/Y44AtiM)), savegame location, cheats)
-* **Alt-Tabbing** without dgVoodoo 2 has lots of issues due to it being a fullscreen exclusive game, including windows monitor setup being moved around, getting color issues ingame when you tab back into the game, and more
+* **Alt-Tabbing:** Without dgVoodoo2 the game runs in exclusive fullscreen mode, which can cause numerous issues. These include monitor layouts changing, incorrect colors after returning to the game, and other display problems.
 * **Multiple Monitors:** Use dgVoodoo2 to force the game into a borderless windowed mode.
 * **Steam Overlay/Controllers:** If you add the game as a non-steam game to use controller configurations, the Windows XP compatibility setting causes the `.exe` to run as administrator. This requires **Steam to also run as administrator** for the overlay and controller input to be detected.
 
@@ -157,7 +187,8 @@ Recommended setup is now complete.
 
 ## Credits and Contributions
 
-Thanks to everyone who has contributed information, research, compatibility fixes, and preservation efforts for Norwegian PC games. Especially mullemekk on archive.org for the current available archived version. 
+Thanks to everyone who has contributed information, research, compatibility fixes, and preservation efforts for Norwegian PC games.
+Special thanks to mullemekk on Archive.org for preserving the currently available archival copy.
 
 Corrections, historical documentation, compatibility reports, and technical research are welcome.
 
