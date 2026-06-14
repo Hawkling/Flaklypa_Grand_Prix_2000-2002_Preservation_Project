@@ -26,7 +26,7 @@ Users are responsible for ensuring they have the legal right to use any software
 * Samle offisielle oppdateringer og historisk dokumentasjon.
 * Forbedre kompatibiliteten med moderne Windows-versjoner.
 * Bevare dokumentasjon for de originale utgivelsene.
-* Oppdatering av Wikipedia og PCGamingWiki
+* Oppdatering av [Wikipedia]([url](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill))) og [PCGamingWiki]([url](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix))
 
 ---
 
@@ -94,7 +94,7 @@ Mer info på bunn av siden.
 * Collect official updates and historical information.
 * Improve compatibility with modern Windows systems.
 * Preserve documentation for the original releases.
-* Updating Wikipedia and PCGamingwiki
+* Updating [Wikipedia]([url](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill))) and [PCGamingwiki]([url](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix))
 
 ---
 
