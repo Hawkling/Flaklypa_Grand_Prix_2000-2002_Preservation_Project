@@ -31,7 +31,53 @@ Users are responsible for ensuring they have the legal right to use any software
 
 ---
 
-## 🇬🇧 English (Norwegian below)
+## 🇳🇴 Norsk (English below)
+
+### Bevaring av norsk spillhistorie og digital kulturarv
+
+Dette prosjektet er et personlig initiativ for å dokumentere og bevare en del av norsk digital spillhistorie. Mange eldre norske PC-spill er ikke lenger kommersielt tilgjengelige og risikerer å gå tapt uten dokumentasjon, offentlige arkivløsninger eller institusjonelle bevaringstiltak. 
+
+Spill som ikke lenger er tilgjengelige for salg burde bli offentlig arkivert gjennom institusjoner som Nasjonalbiblioteket, fremfor å være avhengige av frivillige initiativer og Archive.org alene.
+
+Større interesse for prosjekter som [GOG Dreamlist](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000) kan vise at det fortsatt finnes interesse for å bevare disse spillene. Bedre tilgjengelighet av eldre versjoner kan også bidra til økt interesse for moderne nyutgivelser, eller remakes som *[Flåklypa Grand Prix (2021)](https://store.steampowered.com/app/3352670)*.
+
+Hvis offisielle nyutgivelser eller remastere blir tilgjengelige på GOG eller Steam, er kjøp av disse den beste måten å støtte rettighetshaverne på. Nyutgivelser, remastere, offisiell arkivering, eller personlige prosjekter som dette burde alle være velkommen for å bevare vår digitale kulturarv.
+
+### Tilgang til spillet
+
+De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av kulturarv, er det fellesskapsarkiverte kopier på Archive.org:
+
+* [Gullutgave (2002)](https://archive.org/details/flaklypagullutgave)
+* [Andre versjoner og nye opplastinger](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix)
+
+### Installasjonsguide: Gullutgave (2002)
+
+1. Monter CD-filene med [WinCDEmu](https://wincdemu.sysprogs.org/) (eller pakk dem ut med [Universal Extractor](https://github.com/bioruebe/uniextract2)) og installer i denne rekkefølgen:
+    * FGPGULL1.mdf (CD1 Hvit)
+    * FGPGULL2.mdf (CD2 Svart)
+    * FGPGULL1.mdf (CD1 Hvit) igjen.
+2. Oppdater med `FGPGOLD_UPD12.exe` - kilde er [FlåklypaFix](https://sites.google.com/view/flaklypafix/)
+3. Erstatt `FGP.exe` i `C:\Program Files (x86)\Flåklypa Grand Prix` med den moderne kompatibilitetsversjonen: [replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases).
+
+> **Grunnleggende installasjon fullført. Du kan spille nå.** Lag gjerne en snarvei til skrivebordet. 
+>
+> Hvis spillet ikke starter, bruk Windows XP [kompatibilitetsmodus](https://imgur.com/pPUNzuL) på `.exe`-filen.
+
+#### Anbefalt: Borderless fullscreen med dgVoodoo2
+
+4. [Last ned dgVoodoo2](https://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/)
+5. Kopier `dgVoodooCpl.exe`, `dgVoodoo.conf` og filer fra `MS\x86` (inkl. `DDraw.dll`) til spillmappen.
+6. Åpne `dgVoodooCpl.exe`:
+    * **General:** Scaling mode: *Unspecified* (16:9) eller *Keep aspect ratio* (4:3).
+    * **[DirectX](https://imgur.com/BzplWw1):** Velg ønsket oppløsning og slå av "dgVoodoo Watermark".
+    * Høyreklikk, velg "Show all sections of the configuration
+    * **[GeneralExt](https://imgur.com/mnglcos):** ", aktiver *Borderless*, *Fullscreen size* og *Fake*.
+
+Anbefalt oppsett er nå fullført.
+
+---
+
+## 🇬🇧 English
 
 ### Preserving Norwegian Game History and digital cultural heritage
 
@@ -76,52 +122,6 @@ The original games are no longer commercially available. For cultural preservati
     * **[GeneralExt](https://imgur.com/mnglcos):**" Enable *Borderless*, *Fullscreen size*, and *Fake*.
 
 Recommended setup is now complete.
-
----
-
-## 🇳🇴 Norsk (Norwegian)
-
-### Bevaring av norsk spillhistorie og digital kulturarv
-
-Dette prosjektet er et personlig initiativ for å dokumentere og bevare en del av norsk digital spillhistorie. Mange eldre norske PC-spill er ikke lenger kommersielt tilgjengelige og risikerer å gå tapt uten dokumentasjon, offentlige arkivløsninger eller institusjonelle bevaringstiltak. 
-
-Spill som ikke lenger er tilgjengelige for salg burde bli offentlig arkivert gjennom institusjoner som Nasjonalbiblioteket, fremfor å være avhengige av frivillige initiativer og Archive.org alene.
-
-Større interesse for prosjekter som [GOG Dreamlist](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000) kan vise at det fortsatt finnes interesse for å bevare disse spillene. Bedre tilgjengelighet av eldre versjoner kan også bidra til økt interesse for moderne nyutgivelser, eller remakes som *[Flåklypa Grand Prix (2021)](https://store.steampowered.com/app/3352670)*.
-
-Hvis offisielle nyutgivelser eller remastere blir tilgjengelige på GOG eller Steam, er kjøp av disse den beste måten å støtte rettighetshaverne på. Nyutgivelser, remastere, offisiell arkivering, eller personlige prosjekter som dette burde alle være velkommen for å bevare vår digitale kulturarv.
-
-### Tilgang til spillet
-
-De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av kulturarv, er det fellesskapsarkiverte kopier på Archive.org:
-
-* [Gullutgave (2002)](https://archive.org/details/flaklypagullutgave)
-* [Andre versjoner og nye opplastinger](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix)
-
-### Installasjonsguide: Gullutgave (2002)
-
-1. Monter CD-filene med [WinCDEmu](https://wincdemu.sysprogs.org/) (eller pakk dem ut med [Universal Extractor](https://github.com/bioruebe/uniextract2)) og installer i denne rekkefølgen:
-    * FGPGULL1.mdf (CD1 Hvit)
-    * FGPGULL2.mdf (CD2 Svart)
-    * FGPGULL1.mdf (CD1 Hvit) igjen.
-2. Oppdater med `FGPGOLD_UPD12.exe` - kilde er [FlåklypaFix](https://sites.google.com/view/flaklypafix/)
-3. Erstatt `FGP.exe` i `C:\Program Files (x86)\Flåklypa Grand Prix` med den moderne kompatibilitetsversjonen: [replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases).
-
-> **Grunnleggende installasjon fullført. Du kan spille nå.** Lag gjerne en snarvei til skrivebordet. 
->
-> Hvis spillet ikke starter, bruk Windows XP [kompatibilitetsmodus](https://imgur.com/pPUNzuL) på `.exe`-filen.
-
-#### Anbefalt: Borderless fullscreen med dgVoodoo2
-
-4. [Last ned dgVoodoo2](https://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/)
-5. Kopier `dgVoodooCpl.exe`, `dgVoodoo.conf` og filer fra `MS\x86` (inkl. `DDraw.dll`) til spillmappen.
-6. Åpne `dgVoodooCpl.exe`:
-    * **General:** Scaling mode: *Unspecified* (16:9) eller *Keep aspect ratio* (4:3).
-    * **[DirectX](https://imgur.com/BzplWw1):** Velg ønsket oppløsning og slå av "dgVoodoo Watermark".
-    * Høyreklikk, velg "Show all sections of the configuration
-    * **[GeneralExt](https://imgur.com/mnglcos):** ", aktiver *Borderless*, *Fullscreen size* og *Fake*.
-
-Anbefalt oppsett er nå fullført.
 
 ---
 
