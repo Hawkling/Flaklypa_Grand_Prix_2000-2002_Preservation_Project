@@ -23,9 +23,8 @@ Users are responsible for ensuring they have the legal right to use any software
 ## 🇳🇴 Prosjektmål (English below)
 
 * Bidra til å bevare og gjøre en viktig del av norsk spillhistorie tilgjengelig.
-* Samle offisielle oppdateringer og historisk dokumentasjon.
+* Samle offisielle oppdateringer.
 * Forbedre kompatibiliteten med moderne Windows-versjoner.
-* Bevare dokumentasjon for de originale utgivelsene.
 * Forbedring av [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) og [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) artikler.
 
 ---
@@ -91,9 +90,8 @@ Mer info på bunn av siden.
 ## 🇬🇧 Project Goals
 
 * Help ensure that an important part of Norwegian game history remains accessible.
-* Collect official updates and historical information.
+* Collect official updates.
 * Improve compatibility with modern Windows systems.
-* Preserve documentation for the original releases.
 * Improving the [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) and [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) articles.
 
 ---
