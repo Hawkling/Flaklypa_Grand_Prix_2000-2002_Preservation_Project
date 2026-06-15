@@ -185,7 +185,7 @@ Recommended setup is now complete.
 * [List of PC games with Norwegian support](https://www.reddit.com/r/norge/comments/1tctxoi/) (Project/Report form: [Link](https://docs.google.com/forms/d/e/1FAIpQLSf8JcEtqf-u4Zv1LU3e7uycHVuK311ZcRte9n_gU3zFocXjMg/viewform))
 * [List of PC games with Norwegian support (English)](https://www.reddit.com/r/Norway/comments/1tcpetk/huge_list_of_video_games_available_in_norwegian/)
 * [List of Norwegian-developed games](https://www.reddit.com/r/Norway/comments/1tbbiv4/saw_the_games_of_norway_event_decided_to_look_for/) (Including non-Norwegian language titles)
-* [Steam Search Filters Proposal](https://www.reddit.com/r/gamingsuggestions/comments/1timalt/looking_for_more_story_games_without_text_or/) ("No Language Required" initiative)
+* [Steam Search Filters Proposal](https://steamcommunity.com/discussions/forum/10/567037313987872927/) ("No Language Required" initiative)
 
 ---
 
