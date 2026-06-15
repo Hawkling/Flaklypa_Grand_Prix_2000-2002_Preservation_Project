@@ -167,6 +167,7 @@ Recommended setup is now complete.
 * [PCGamingWiki Page](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)
 * [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Primary source for official updates.
 * [Guide for minigame locations](https://imgur.com/gallery/Hi9UwkT)
+* [Archived Caprino.no](https://web.archive.org/web/*/http://www.caprino.no/pages/*)
 
 ### Wiki References
 
