@@ -195,7 +195,7 @@ Special thanks to mullemekk on Archive.org for preserving the currently availabl
 
 Thanks to everyone who has contributed information, research, compatibility fixes, and preservation efforts for Norwegian PC games.
 
-Corrections, historical documentation, compatibility reports, and technical research are welcome.
+Corrections, compatibility reports, and anything else you can think of are welcome.
 
 ## License
 
