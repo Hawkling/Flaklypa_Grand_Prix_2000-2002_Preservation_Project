@@ -31,11 +31,11 @@ Users are responsible for ensuring they have the legal right to use any software
 
 ## Innhold i arkivet
 
-* Installasjonsveiledning for moderne operativsystemer.
-* Offisielle oppdateringer for 2000–2002-utgavene.
+* Installasjonsveiledning for moderne Windows.
+* Arkiverte offisielle oppdateringer.
 * Erstatningsfil (FGP.exe) for moderne Windows kompatibilitet.
-* Referanser til eksterne arkiveringsressurser, inkludert Archive.org.
-* dgVoodoo2 konfigurasjon.
+* dgVoodoo2 konfigurasjon for "widescreen" og "borderless fullscreen".
+* Lenker til eksterne arkiveringsressurser, inkludert Archive.org.
 * Lenker til mine andre prosjekter: Norsk spillbevaring og synliggjøring av norske spill.
 
 ---
@@ -52,7 +52,7 @@ Hvis offisielle nyutgivelser eller remastere blir tilgjengelige på GOG eller St
 
 ### Tilgang til spillet
 
-De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av kulturarv, er det fellesskapsarkiverte kopier på Archive.org:
+De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersielt tilgjengelige. For å bevare vår kulturarv finnes det fellesskapsarkiverte kopier på Archive.org.
 
 * [Gullutgave (2002)](https://archive.org/details/flaklypagullutgave)
 * [Andre versjoner og nye opplastinger](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix)
@@ -92,17 +92,17 @@ Mer info på bunn av siden.
 * Help ensure that an important part of Norwegian game history remains accessible.
 * Collect official updates.
 * Improve compatibility with modern Windows systems.
-* Improving the [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) and [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) articles.
+* Improve the [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) and [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) articles.
 
 ---
 
 ## Repository Contents
 
-* Installation guides for modern systems.
-* Official updates for 2000-2002 releases.
+* Installation guides for modern Windows.
+* Archived official updates.
 * Replacement (FGP.exe) for modern Windows compatibility.
-* References to external preservation resources, including Archive.org.
-* dgVoodoo2 configuration.
+* dgVoodoo2 configuration for widescreen and borderless fullscreen.
+* Links to external preservation resources, including Archive.org.
 * Links to my other projects: Norwegian Game Preservation and improving visibility for Norwegian games.
 
 ---
@@ -121,7 +121,7 @@ If official re-releases become available on platforms such as GOG or Steam, purc
 
 ### Availability of the Game
 
-The original games are no longer commercially available. Community-preserved archival copies are available on Archive.org for preservation purposes.
+The original games have never been released digitally and are no longer commercially available. For preservation purposes, community-archived copies are available through Archive.org.
 
 * [Gold edition (2002)](https://archive.org/details/flaklypagullutgave)
 * [Other versions and new uploads](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix)
@@ -162,17 +162,22 @@ Recommended setup is now complete.
 
 ---
 
+## Missing releases wanted for archival preservation
+
+* English (Pinchcliffe Grand Prix)
+* Danish (Bjergkøbing Grand Prix)
+* Swedish
+
+---
+
 ## External resources
 
 * [PCGamingWiki Page](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)
 * [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Primary source for official updates.
+* [Norwegian Wikipedia (PC Game)](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill))
+* [English Wikipedia (Franchise)](https://en.wikipedia.org/wiki/The_Pinchcliffe_Grand_Prix)
 * [Guide for minigame locations](https://imgur.com/gallery/Hi9UwkT)
 * [Archived Caprino.no](https://web.archive.org/web/*/http://www.caprino.no/pages/*)
-
-### Wiki References
-
-* [English Wikipedia (Franchise)](https://en.wikipedia.org/wiki/The_Pinchcliffe_Grand_Prix)
-* [Norwegian Wikipedia (PC Game)](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill))
 * [Norwegian Dub Wiki](https://norske-dubber.fandom.com/no/wiki/Fl%C3%A5klypa_Grand_Prix_(Spill))
 
 ### Norwegian Game Preservation and industry exposure Projects
@@ -186,8 +191,8 @@ Recommended setup is now complete.
 
 ## Credits and Contributions
 
-Thanks to everyone who has contributed information, research, compatibility fixes, and preservation efforts for Norwegian PC games.
 Special thanks to mullemekk on Archive.org for preserving the currently available archival copy.
+Thanks to everyone who has contributed information, research, compatibility fixes, and preservation efforts for Norwegian PC games.
 
 Corrections, historical documentation, compatibility reports, and technical research are welcome.
 
