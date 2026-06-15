@@ -64,7 +64,7 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
     * FGPGULL2.mdf (CD2 Svart)
     * FGPGULL1.mdf (CD1 Hvit) igjen.
 2. Oppdater med `FGPGOLD_UPD12.exe` - Offisiell oppdatering [FlåklypaFix](https://sites.google.com/view/flaklypafix/)
-3. Erstatt `FGP.exe` i `C:\Program Files (x86)\Flåklypa Grand Prix` med den moderne kompatibilitetsversjonen: [replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases).
+3. Erstatt `FGP.exe` i `C:\Program Files (x86)\Flåklypa Grand Prix` med den moderne kompatibilitetsversjonen: [replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases). (sammen filen er i arkiv mappen)
 
 > **Grunnleggende installasjon fullført. Du kan spille nå.** Lag gjerne en snarvei til skrivebordet. 
 >
@@ -133,7 +133,7 @@ The original games have never been released digitally and are no longer commerci
     * FGPGULL2.mdf (CD2 Svart, black)
     * FGPGULL1.mdf (CD1 Hvit, white) again.
 2. Update with `FGPGOLD_UPD12.exe` - Official update [FlåklypaFix](https://sites.google.com/view/flaklypafix/).
-3. Replace `FGP.exe` in `C:\Program Files (x86)\Flåklypa Grand Prix` with the modern compatibility [replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases).
+3. Replace `FGP.exe` in `C:\Program Files (x86)\Flåklypa Grand Prix` with the modern compatibility [replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases). (same file exists in the archived folder)
 
 > **Basic installation complete. You can play now.** Create a desktop shortcut if desired. 
 >
