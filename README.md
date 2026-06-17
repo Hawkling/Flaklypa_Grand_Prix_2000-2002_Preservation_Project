@@ -54,7 +54,8 @@ Hvis offisielle nyutgivelser eller remastere blir tilgjengelige på GOG eller St
 
 De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersielt tilgjengelige. For å bevare vår kulturarv finnes det fellesskapsarkiverte kopier på Archive.org.
 
-* [Gullutgave (2002)](https://archive.org/details/flaklypagullutgave)
+* [Gullutgave (2002)](https://archive.org/details/flaklypagullutgave) Guiden er for denne.
+* [Originalen (2000)](https://archive.org/details/flaklypa-grand-prix-cracket)
 * [Andre versjoner og nye opplastinger](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix)
 
 ### Installasjonsguide: Gullutgave (2002)
@@ -123,7 +124,8 @@ If official re-releases become available on platforms such as GOG or Steam, purc
 
 The original games have never been released digitally and are no longer commercially available. For preservation purposes, community-archived copies are available through Archive.org.
 
-* [Gold edition (2002)](https://archive.org/details/flaklypagullutgave)
+* [Gold edition (2002)](https://archive.org/details/flaklypagullutgave) The guide is for this one.
+* [The original (2000)](https://archive.org/details/flaklypagullutgave)
 * [Other versions and new uploads](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix)
 
 ### Installation Guide: Gold Edition (2002)
