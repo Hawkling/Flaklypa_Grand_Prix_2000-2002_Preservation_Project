@@ -57,6 +57,7 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
 * [Gullutgave (2002)](https://archive.org/details/flaklypagullutgave) Guiden er for denne.
 * [Originalen (2000)](https://archive.org/details/flaklypa-grand-prix-cracket) Guide følger med.
 * [Andre versjoner og nye opplastinger](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix)
+* [Stem på GOG Dreamlist for nyutgivelse!](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000)
 
 ### Installasjonsguide: Gullutgave (2002)
 
@@ -127,6 +128,7 @@ The original games have never been released digitally and are no longer commerci
 * [Gold edition (2002)](https://archive.org/details/flaklypagullutgave) The guide is for this one.
 * [The original (2000)](https://archive.org/details/flaklypagullutgave) A guide is included.
 * [Other versions and new uploads](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix)
+* [Vote on GOG Dreamlist for a rerelease!](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000)
 
 ### Installation Guide: Gold Edition (2002)
 
