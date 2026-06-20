@@ -42,13 +42,15 @@ Users are responsible for ensuring they have the legal right to use any software
 
 ###  Bevaring av norsk spillhistorie og digital kulturarv
 
-Dette prosjektet er et personlig initiativ for å dokumentere og bevare en del av norsk digital spillhistorie. Mange eldre norske PC-spill er ikke lenger kommersielt tilgjengelige og risikerer å gå tapt uten dokumentasjon, offentlige arkivløsninger eller institusjonelle bevaringstiltak. 
+Dette er et personlig prosjekt for å dokumentere og bevare en del av Norges digitale spillhistorie.
 
-Spill som ikke lenger er tilgjengelige for salg burde blitt offentlig arkivert gjennom institusjoner som Nasjonalbiblioteket, fremfor å være avhengige av frivillige og Archive.org alene.
+Mange eldre norske PC-spill blir ikke lenger solgt og risikerer å gå tapt, til tross for at de er 100 % digitale. De er en viktig del av Norges digitale spillhistorie og bør bevares.
 
-Større interesse for prosjekter som [GOG Dreamlist](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000) kan vise at det fortsatt finnes interesse for å bevare disse spillene. Bedre tilgjengelighet av eldre versjoner kan også bidra til økt interesse for moderne nyutgivelser, eller remakes som *[Flåklypa Grand Prix (2021)](https://store.steampowered.com/app/3352670)*.
+Spill som ikke lenger selges, bør offentlig arkiveres av Nasjonalbiblioteket eller lignende offentlige institusjoner, fremfor å være avhengige av frivillige og Archive.org for langsiktig bevaring.
 
-Hvis offisielle nyutgivelser eller remastere blir tilgjengelige på GOG eller Steam, er kjøp av disse den beste måten å støtte rettighetshaverne på. Nyutgivelser, remastere, offisiell arkivering, eller personlige prosjekter som dette burde alle være velkommen for å bevare vår digitale kulturarv.
+Hvis offisielle nyutgivelser eller remastere blir tilgjengelige på GOG eller Steam, er den beste måten å støtte rettighetshaverne på å kjøpe disse. Bedre tilgjengelighet av eldre versjoner kan også skape økt interesse for nyere utgivelser, som *[Flåklypa Grand Prix (2021)](https://store.steampowered.com/app/3352670)*. Interesse for offisielle nyutgivelser kan også vises ved å stemme på [GOG Dreamlist](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000).
+
+Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant annet gjennom Archive.org, spiller alle en viktig rolle i bevaringen av Norges digitale spillhistorie.
 
 ### Tilgang til spillet
 
@@ -109,15 +111,17 @@ Mer info på bunn av siden.
 
 ---
 
-### Preserving Norwegian Game History and digital cultural heritage
+### Preserving Norwegian Video Game History and Digital Cultural Heritage
 
-This is a personal effort to document and preserve part of Norway's digital gaming heritage. Many older Norwegian PC games are no longer commercially available and risk being lost without community documentation, public archives, or institutional preservation efforts. 
+This is a personal project to document and preserve part of Norway's digital gaming history.
 
-Games that can no longer be purchased should be publicly archived through institutions such as the National Library of Norway (*Nasjonalbiblioteket*), rather than relying solely on volunteers and Archive.org.
+Many older Norwegian PC games are no longer sold and risk being lost, despite being 100% digital. They are an important part of Norway's digital gaming history and should be preserved.
 
-More interest in projects like the [GOG Dreamlist](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000) can help demonstrate continued interest in preserving these games. Better availability of older versions could also generate renewed interest in modern re-releases and remakes such as *[Pinchcliffe Grand Prix (2021)](https://store.steampowered.com/app/3352670)*.
+Games that are no longer sold should be publicly archived by the National Library of Norway or similar public institutions, rather than relying on volunteers and Archive.org for long-term preservation.
 
-If official re-releases become available on platforms such as GOG or Steam, purchasing those versions is the best way to support the rights holders. Re-releases, remasters, official preservation initiatives or personal projects like this should all be welcome to preserve our digital cultural heritage.
+If official re-releases or remasters become available on GOG or Steam, purchasing them is the best way to support the rights holders. Better availability of older versions may also generate renewed interest in newer releases, such as *[Pinchcliffe Grand Prix (2021)](https://store.steampowered.com/app/3352670)*. Interest in official re-releases can also be shown by voting on the [GOG Dreamlist](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000).
+
+Official re-releases, remasters, public and community archiving, including through Archive.org, all play an important role in preserving Norway's digital gaming history.
 
 ---
 
