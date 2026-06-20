@@ -77,7 +77,7 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
 #### Anbefalt: Borderless fullscreen med dgVoodoo2
 
 4. [Last ned dgVoodoo2](https://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/)
-5. Kopier `dgVoodooCpl.exe`, `dgVoodoo.conf` og filer fra `MS\x86` (inkl. `DDraw.dll`) til spillmappen.
+5. Kopier `dgVoodooCpl.exe`, `dgVoodoo.conf` og filer fra `MS\x86` (inkl. `DDraw.dll`) til spillmappen. (Sammen med FGP.exe)
 6. Åpne `dgVoodooCpl.exe`:
     * **General:** Scaling mode: *Unspecified* (16:9) eller *Keep aspect ratio* (4:3).
     * **[DirectX](https://imgur.com/BzplWw1):** Velg ønsket oppløsning og slå av "dgVoodoo Watermark".
@@ -150,7 +150,7 @@ The original games have never been released digitally and are no longer commerci
 #### Recommended: Borderless Fullscreen with dgVoodoo2
 
 4. [Download dgVoodoo2](https://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/).
-5. Copy `dgVoodooCpl.exe`, `dgVoodoo.conf`, and files from the `MS\x86` folder (including `DDraw.dll`) to the game folder.
+5. Copy `dgVoodooCpl.exe`, `dgVoodoo.conf`, and files from the `MS\x86` folder (including `DDraw.dll`) to the game folder. (With FGP.exe)
 6. Open `dgVoodooCpl.exe`:
     * **General:** Scaling mode: *Unspecified* (for 16:9) or *Keep aspect ratio* (for 4:3).
     * **[DirectX](https://imgur.com/BzplWw1):** Select your desired resolution and turn off "dgVoodoo Watermark."
