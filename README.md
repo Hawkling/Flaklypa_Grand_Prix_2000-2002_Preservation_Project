@@ -19,24 +19,17 @@ The repository does **not** include the original game, installation media, or co
 Users are responsible for ensuring they have the legal right to use any software referenced by this project.
 
 ---
+## 🇳🇴 Prosjektoversikt (English below)
 
-## 🇳🇴 Prosjektmål (English below)
+Dette prosjektet har som mål å bevare og gjøre en viktig del av norsk spillhistorie tilgjengelig gjennom:
 
-* Bidra til å bevare og gjøre en viktig del av norsk spillhistorie tilgjengelig.
-* Samle offisielle oppdateringer.
-* Forbedre kompatibiliteten med moderne Windows-versjoner.
-* Forbedring av [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) og [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) artikler.
-
----
-
-## Innhold i arkivet
-
-* Installasjonsveiledning for moderne Windows.
-* Arkiverte offisielle oppdateringer.
-* Erstatningsfil (FGP.exe) for moderne Windows kompatibilitet.
-* dgVoodoo2 konfigurasjon for "widescreen" og "borderless fullscreen".
-* Lenker til eksterne arkiveringsressurser, inkludert Archive.org.
-* Lenker til mine andre prosjekter: Norsk spillbevaring og synliggjøring av norske spill.
+- Forbedring av [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) og [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) artikler.
+- Installasjonsveiledning for moderne Windows.
+- Arkiverte offisielle oppdateringer.
+- Erstatningsfil (`FGP.exe`) for moderne Windows-kompatibilitet.
+- dgVoodoo2-konfigurasjon for  "widescreen" og "borderless fullscreen".
+- Lenker til eksterne arkiveringsressurser, inkludert Archive.org.
+- Lenker til mine andre prosjekter om bevaring og synliggjøring av norske dataspill.
 
 ---
 
@@ -84,28 +77,22 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
 
 Anbefalt oppsett er nå fullført.
 
-###
-Mer info på bunn av siden.
+
+### Mer info på bunn av siden.
 
 ---
 
-## 🇬🇧 Project Goals
+## 🇬🇧 Project Overview
 
-* Help ensure that an important part of Norwegian game history remains accessible.
-* Collect official updates.
-* Improve compatibility with modern Windows systems.
-* Improve the [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) and [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) articles.
+This project aims to preserve and improve access to an important part of Norwegian video game history through:
 
----
-
-## Repository Contents
-
-* Installation guides for modern Windows.
-* Archived official updates.
-* Replacement (FGP.exe) for modern Windows compatibility.
-* dgVoodoo2 configuration for widescreen and borderless fullscreen.
-* Links to external preservation resources, including Archive.org.
-* Links to my other projects: Norwegian Game Preservation and improving visibility for Norwegian games.
+Improving the [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) and [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) articles.
+Installation guide for modern versions of Windows.
+Archived official updates.
+Replacement FGP.exe for modern Windows compatibility.
+dgVoodoo2 configuration for widescreen and borderless fullscreen.
+Links to external preservation resources, including Archive.org.
+Links to my other projects focused on preserving and promoting Norwegian video games.
 
 ---
 
