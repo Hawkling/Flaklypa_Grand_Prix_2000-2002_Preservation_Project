@@ -164,7 +164,7 @@ Recommended setup is now complete.
 ## External resources
 
 * [PCGamingWiki Page](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)
-* [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Primary source for official updates. [Archive alternative](https://web.archive.org/web/20050218175530fw_/http://www.caprino.no/pages/oppdateringer.html)
+* [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Primary source for official updates. [Archive alternative](https://web.archive.org/web/20260000000000*/http://www.caprino.no/pages/oppdateringer.html)
 * [Norwegian Wikipedia (PC Game)](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill))
 * [English Wikipedia (Franchise)](https://en.wikipedia.org/wiki/The_Pinchcliffe_Grand_Prix)
 * [Guide for minigame locations](https://imgur.com/gallery/Hi9UwkT)
