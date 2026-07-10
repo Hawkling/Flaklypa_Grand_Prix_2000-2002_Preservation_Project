@@ -6,8 +6,6 @@ Covers only the original release (2000), Anniversary Edition (2001), and Gold Ed
 
 These games have not been commercially available for many years.
 
-This repository does not contain the original game data.
-
 ---
 
 ## Legal Notice
@@ -16,7 +14,7 @@ This repository does not contain the original game data.
 
 This is an unofficial preservation project and is not affiliated with, endorsed by, or sponsored by any rights holder.
 
-The repository does **not** include the original game, installation media, or copyrighted game assets. Links to third-party sources are provided for preservation purposes only. Availability and legality of third-party sources may vary by jurisdiction.
+The repository does **not include the original game, installation media, or copyrighted game assets.** Links to third-party sources are provided for preservation purposes only. Availability and legality of third-party sources may vary by jurisdiction.
 
 Users are responsible for ensuring they have the legal right to use any software referenced by this project.
 
