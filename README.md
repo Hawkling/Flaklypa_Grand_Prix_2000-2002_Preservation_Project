@@ -6,6 +6,8 @@ Covers only the original release (2000), Anniversary Edition (2001), and Gold Ed
 
 These games have not been commercially available for many years.
 
+This repository does not contain the original game data.
+
 ---
 
 ## Legal Notice
