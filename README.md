@@ -1,6 +1,6 @@
 # Flåklypa Grand Prix (2000-2002) Preservation Project
 
-## Windows 11 guide for Gullutgaven
+Windows 11 guide for Gullutgaven
 
 Digital preservation and compatibility project for the original PC releases of *Flåklypa Grand Prix* (2000-2002). (English: *Pinchcliffe Grand Prix*).
 
