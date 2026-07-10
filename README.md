@@ -4,7 +4,7 @@ Windows 11 guide for Flåklypa Grand Prix Gullutgave (2002)
 
 Digital preservation and compatibility project for the original PC releases of *Flåklypa Grand Prix* (2000-2002). (English: *Pinchcliffe Grand Prix*).
 
-Guide covers only Flåklypa Grand Prix Gullutgave (2002) (Gold Edition). Have not tried the original release (2000) and Jubileumsutgave (2001) (Anniversary Edition).
+Guide covers only Flåklypa Grand Prix Gullutgave (2002) (Gold Edition). Have not tried the original release (2000) or Jubileumsutgave (2001) (Anniversary Edition).
 
 These games have not been commercially available for many years.
 
