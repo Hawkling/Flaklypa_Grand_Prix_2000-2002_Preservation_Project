@@ -1,6 +1,8 @@
 # Flåklypa Grand Prix (2000-2002) Preservation Project
 
-Flåklypa Grand Prix Gullutgave (2002) Windows 11 guide 
+Flåklypa Grand Prix Gullutgave (2002) Windows 11 guide, PC spillet i både original versjon (2000) og Hullutgaven (2002) er lenket her!
+
+---
 
 Digital preservation and compatibility project for the original PC releases of *Flåklypa Grand Prix* (2000-2002). (English: *Pinchcliffe Grand Prix*).
 
