@@ -23,21 +23,8 @@ The repository does **not include the original game, installation media, or copy
 Users are responsible for ensuring they have the legal right to use any software referenced by this project.
 
 ---
-## 🇳🇴 Prosjektoversikt (English below)
 
-Dette prosjektet har som mål å bevare og gjøre en viktig del av norsk spillhistorie tilgjengelig gjennom:
-
-- Installasjonsveiledning for moderne Windows.
-- Arkiverte offisielle oppdateringer.
-- Erstatningsfil (`FGP.exe`) for moderne Windows-kompatibilitet.
-- dgVoodoo2-konfigurasjon for  "widescreen" og "borderless fullscreen".
-- Forbedring av [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) og [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) artikler.
-- Lenker til eksterne arkiveringsressurser, inkludert Archive.org.
-- Lenker til mine andre prosjekter om bevaring og synliggjøring av norske dataspill.
-
----
-
-###  Bevaring av norsk spillhistorie og digital kulturarv
+## 🇳🇴 Bevaring av norsk spillhistorie og digital kulturarv (English below)
 
 Mange eldre norske PC-spill blir ikke lenger solgt og risikerer å gå tapt, til tross for at de er 100 % digitale. De er en viktig del av Norges digitale spillhistorie.
 
@@ -86,21 +73,7 @@ Anbefalt oppsett er nå fullført.
 
 ---
 
-## 🇬🇧 Project Overview
-
-This project aims to preserve and improve access to an important part of Norwegian video game history through:
-
-- Installation guide for modern versions of Windows.
-- Archived official updates.
-- Replacement FGP.exe for modern Windows compatibility.
-- dgVoodoo2 configuration for widescreen and borderless fullscreen.
-- Improving the [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) and [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) articles.
-- Links to external preservation resources, including Archive.org.
-- Links to my other projects focused on preserving and promoting Norwegian video games.
-
----
-
-### Preserving Norwegian Video Game History and Digital Cultural Heritage
+## 🇬🇧 Preserving Norwegian Video Game History and Digital Cultural Heritage
 
 Many older Norwegian PC games are no longer sold and risk being lost, despite being 100% digital. They are an important part of Norway's digital gaming history.
 
@@ -181,6 +154,8 @@ Recommended setup is now complete.
 * [List of PC games with Norwegian support (English)](https://www.reddit.com/r/Norway/comments/1tcpetk/huge_list_of_video_games_available_in_norwegian/)
 * [List of Norwegian-developed games](https://www.reddit.com/r/Norway/comments/1tbbiv4/saw_the_games_of_norway_event_decided_to_look_for/) (Including non-Norwegian language titles)
 * [Steam Search Filters Proposal](https://steamcommunity.com/discussions/forum/10/567037313987872927/) ("No Language Required" initiative)
+
+- Improved the [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) and [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) articles.
 
 ---
 
