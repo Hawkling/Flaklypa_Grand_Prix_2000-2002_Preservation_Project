@@ -1,6 +1,6 @@
 # Flåklypa Grand Prix (2000-2002) Preservation Project
 
-Flåklypa Grand Prix Gullutgave (2002) Windows 11 installasjons guide. Både original versjon (2000) og Gullutgaven (2002) kan lastes ned med lenkene nedenfor!
+Flåklypa Grand Prix Gullutgave (2002) Windows 11 installasjons guide. Både original versjon (2000) og Gullutgaven (2002) kan lastes ned med arkiv lenkene nedenfor!
 
 ---
 
