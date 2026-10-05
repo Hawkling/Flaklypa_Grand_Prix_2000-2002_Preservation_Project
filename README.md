@@ -24,7 +24,7 @@ Users are responsible for ensuring they have the legal right to use any software
 
 ---
 
-### 🇳🇴 Tilgang til spillet
+### 🇳🇴 Tilgang til spillet (English below)
 
 De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersielt tilgjengelige. For å bevare vår kulturarv finnes det fellesskapsarkiverte kopier på Archive.org.
 
@@ -60,7 +60,7 @@ Anbefalt oppsett er nå fullført. **Kos deg :)**
 
 ---
 
-## Bevaring av norsk spillhistorie og digital kulturarv (English below)
+## Bevaring av norsk spillhistorie og digital kulturarv
 
 Mange eldre norske PC-spill blir ikke lenger solgt og risikerer å gå tapt, til tross for at de er 100 % digitale. De er en viktig del av Norges digitale spillhistorie.
 
