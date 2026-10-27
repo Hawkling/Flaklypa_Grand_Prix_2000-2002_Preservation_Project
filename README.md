@@ -6,9 +6,9 @@ Flåklypa Grand Prix Gullutgave (2002) Windows 11 installasjons guide. Spillet i
 
 Digital preservation and compatibility project for the original PC releases of *Flåklypa Grand Prix* (2000-2002). (English: *Pinchcliffe Grand Prix*).
 
-Guide covers only Flåklypa Grand Prix Gullutgave (2002) (Gold Edition). Have not tried the original release (2000) or Jubileumsutgave (2001) (Anniversary Edition).
-
 These games have not been commercially available for many years.
+
+Guide covers only Flåklypa Grand Prix Gullutgave (2002) (Gold Edition). Have not tried the original release (2000) or Jubileumsutgave (2001) (Anniversary Edition).
 
 ---
 
@@ -154,7 +154,7 @@ Official re-releases, remasters, public and community archiving, including throu
 * [List of PC games with Norwegian support](https://www.reddit.com/r/norge/comments/1tctxoi/) (Project/Report form: [Link](https://docs.google.com/forms/d/e/1FAIpQLSf8JcEtqf-u4Zv1LU3e7uycHVuK311ZcRte9n_gU3zFocXjMg/viewform))
 * [List of PC games with Norwegian support (English)](https://www.reddit.com/r/Norway/comments/1tcpetk/huge_list_of_video_games_available_in_norwegian/)
 * [List of Norwegian-developed games](https://www.reddit.com/r/Norway/comments/1tbbiv4/saw_the_games_of_norway_event_decided_to_look_for/) (Including non-Norwegian language titles)
-* [Steam Search Filters Proposal](https://steamcommunity.com/discussions/forum/10/567037313987872927/) ("No Language Required" initiative)
+* [Steam Search Filters Proposal](https://steamcommunity.com/discussions/forum/10/571552997743547079/) ("No Language Required" initiative)
 
 - Improved the [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) and [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) articles.
 
