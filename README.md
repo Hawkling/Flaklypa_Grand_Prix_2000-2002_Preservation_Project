@@ -12,6 +12,8 @@ Guide covers only Flåklypa Grand Prix Gullutgave (2002) (Gold Edition). Have no
 
 ---
 
+Linux guide can be found [here](linux.md)!
+
 ## Legal Notice
 
 *Flåklypa Grand Prix / Pinchcliffe Grand Prix* and related intellectual property remain the property of their respective rights holders.
