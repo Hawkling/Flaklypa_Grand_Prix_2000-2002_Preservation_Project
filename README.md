@@ -2,7 +2,7 @@
 
 Flåklypa Grand Prix Gullutgave (2002) Windows 11 installasjons guide.
 
-Spillet i både original versjon (2000) og Gullutgaven (2002) kan [lastes ned med arkiv lenkene nedenfor!](#-tilgang-til-spillet-english-below)
+Spillet i både original versjon (2000) og Gullutgaven (2002) kan [lastes ned med arkiv lenkene nedenfor!](#-tilgang-til-spillet)
 
 ---
 
@@ -32,7 +32,7 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
 * [Originalen (2000)](https://archive.org/details/flaklypa-grand-prix-cracket) Guide følger med.
 * [Andre akriverte versjoner og nye opplastinger](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix&and%5B%5D=mediatype%3A%22software%22)
 * [Stem på GOG Dreamlist for nyutgivelse!](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000)
-* Uten Windows: [Linux guide av tjerandb](https://github.com/tjerandb/Flaklypa_Grand_Prix_2000-2002_Preservation_Project/blob/main/linux.md) - [Linux Gjennom Lutris](https://lutris.net/games/pinchcliffe-grand-prix/) - [Mac guide](https://hals.app/blog/fgp-modern/)
+* Uten Windows: [Linux guide av tjerandb](https://github.com/tjerandb/Flaklypa_Grand_Prix_2000-2002_Preservation_Project/blob/main/linux.md) - [Linux gjennom Lutris](https://lutris.net/games/pinchcliffe-grand-prix/) - [Mac guide](https://hals.app/blog/fgp-modern/)
 
 ### Installasjonsguide: Gullutgave (2002)
 
