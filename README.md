@@ -24,7 +24,7 @@ The repository does **not include the original game, installation media, or copy
 
 ---
 
-### 🇳🇴 Tilgang til spillet (English below)
+### 🇳🇴 Tilgang til spillet
 
 De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersielt tilgjengelige. For å bevare vår kulturarv finnes det fellesskapsarkiverte kopier på Archive.org.
 
@@ -82,7 +82,7 @@ Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant ann
 
 ---
 
-## Missing releases wanted for archival preservation
+## Håper og få arkivert
 
 * English (Pinchcliffe Grand Prix)
 * Danish (Bjergkøbing Grand Prix)
@@ -91,23 +91,19 @@ Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant ann
 ---
 
 ## External resources
-
-* [PCGamingWiki Page](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)
+* [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) og [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) artikler. Overhalt av meg :)
 * [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Primary source for official updates. [Archive alternative](https://web.archive.org/web/20260000000000*/http://www.caprino.no/pages/oppdateringer.html)
-* [Norwegian Wikipedia (PC Game)](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill))
-* [English Wikipedia (Franchise)](https://en.wikipedia.org/wiki/The_Pinchcliffe_Grand_Prix)
-* [Guide for minigame locations](https://imgur.com/gallery/Hi9UwkT)
-* [Archived Caprino.no](https://web.archive.org/web/*/http://www.caprino.no/pages/*)
-* [Norwegian Dub Wiki](https://norske-dubber.fandom.com/no/wiki/Fl%C3%A5klypa_Grand_Prix_(Spill))
+* [Guide for å finne minigames](https://imgur.com/gallery/Hi9UwkT)
+* [Arkivert Caprino.no](https://web.archive.org/web/*/http://www.caprino.no/pages/*)
+* [Norsk Dub Wiki](https://norske-dubber.fandom.com/no/wiki/Fl%C3%A5klypa_Grand_Prix_(Spill))
 
-### Norwegian Game Preservation and industry exposure Projects
-
-* [List of PC games with Norwegian support](https://www.reddit.com/r/norge/comments/1tctxoi/) (Project/Report form: [Link](https://docs.google.com/forms/d/e/1FAIpQLSf8JcEtqf-u4Zv1LU3e7uycHVuK311ZcRte9n_gU3zFocXjMg/viewform))
+### Andre prosjekter
+* [Liste over PC Spill med norsk tale og skrift](https://www.reddit.com/r/norge/comments/1tctxoi/) (Project/Report form: [Link](https://docs.google.com/forms/d/e/1FAIpQLSf8JcEtqf-u4Zv1LU3e7uycHVuK311ZcRte9n_gU3zFocXjMg/viewform))
 * [List of PC games with Norwegian support (English)](https://www.reddit.com/r/Norway/comments/1tcpetk/huge_list_of_video_games_available_in_norwegian/)
 * [List of Norwegian-developed games](https://www.reddit.com/r/Norway/comments/1tbbiv4/saw_the_games_of_norway_event_decided_to_look_for/) (Including non-Norwegian language titles)
 * [Steam Search Filters Proposal](https://steamcommunity.com/discussions/forum/10/571552997743547079/) ("No Language Required" initiative)
 
-- Improved the [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) and [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) articles.
+
 
 ---
 
