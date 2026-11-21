@@ -60,6 +60,9 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
 
 Anbefalt oppsett er nå fullført. **Kos deg :)**
 
+* Linux guide: https://github.com/tjerandb/Flaklypa_Grand_Prix_2000-2002_Preservation_Project/blob/main/linux.md eller https://lutris.net/games/pinchcliffe-grand-prix/
+* Mac guide: https://hals.app/blog/fgp-modern/
+
 ---
 
 ## Bevaring av norsk spillhistorie og digital kulturarv
