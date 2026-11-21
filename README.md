@@ -90,7 +90,7 @@ Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant ann
 
 ---
 
-## External resources
+## Eksterne lenker
 * [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) og [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) artikler. Overhalt av meg :)
 * [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Primary source for official updates. [Archive alternative](https://web.archive.org/web/20260000000000*/http://www.caprino.no/pages/oppdateringer.html)
 * [Guide for å finne minigames](https://imgur.com/gallery/Hi9UwkT)
