@@ -1,5 +1,4 @@
 # Flåklypa Grand Prix (2000-2002) Preservation Project
-
 Flåklypa Grand Prix Gullutgave (2002) Windows 11 installasjons guide.
 
 Spillet i både original versjon (2000) og Gullutgaven (2002) kan [lastes ned med arkiv lenkene nedenfor!](#-tilgang-til-spillet)
@@ -13,7 +12,6 @@ These games have not been commercially available for many years.
 ---
 
 ## Legal Notice
-
 *Flåklypa Grand Prix / Pinchcliffe Grand Prix* and related intellectual property remain the property of their respective rights holders.
 
 This is an unofficial preservation project and is not affiliated with, endorsed by, or sponsored by any rights holder.
@@ -24,8 +22,7 @@ The repository does **not include the original game, installation media, or copy
 
 ---
 
-### 🇳🇴 Tilgang til spillet
-
+### Tilgang til spillet
 De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersielt tilgjengelige. For å bevare vår kulturarv finnes det fellesskapsarkiverte kopier på Archive.org.
 
 * [Gullutgave (2002)](https://archive.org/details/flaklypagullutgave) Guiden er for denne.
@@ -35,7 +32,6 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
 * Uten Windows: [Linux guide av tjerandb](https://github.com/tjerandb/Flaklypa_Grand_Prix_2000-2002_Preservation_Project/blob/main/linux.md) - [Linux gjennom Lutris](https://lutris.net/games/pinchcliffe-grand-prix/) - [Mac guide](https://hals.app/blog/fgp-modern/)
 
 ### Installasjonsguide: Gullutgave (2002)
-
 1. Monter CD-filene med [WinCDEmu](https://wincdemu.sysprogs.org/) (eller pakk dem ut med [Universal Extractor](https://github.com/bioruebe/uniextract2)) og installer i denne rekkefølgen:
     * FGPGULL1.mdf (CD1 Hvit)
     * FGPGULL2.mdf (CD2 Svart)
@@ -62,7 +58,6 @@ Anbefalt oppsett er nå fullført. **Kos deg :)**
 ---
 
 ## Bevaring av norsk spillhistorie og digital kulturarv
-
 Mange eldre norske PC-spill blir ikke lenger solgt og risikerer å gå tapt, til tross for at de er 100 % digitale. De er en viktig del av Norges digitale spillhistorie.
 
 Spill som ikke lenger selges bør bevares og bli offentlig arkivert av Nasjonalbiblioteket eller lignende offentlige institusjoner, fremfor å være avhengige av frivillige og Archive.org for langsiktig bevaring.
@@ -73,17 +68,15 @@ Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant ann
 
 ---
 
-## Troubleshooting & Known Issues
-
-* **[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)** (for other issues see the glossary pages for potential workarounds. Also includes: shortcuts, [minigame location guide]([url](https://imgur.com/gallery/Y44AtiM)), savegame location, cheats)
-* **Alt-Tabbing:** Without dgVoodoo2 the game runs in exclusive fullscreen mode, which can cause numerous issues. These include monitor layouts changing, incorrect colors after returning to the game, and other display problems.
-* **Multiple Monitors:** Use dgVoodoo2 to force the game into a borderless windowed mode.
-* **Steam Overlay/Controllers:** If you add the game as a non-steam game to use controller configurations, the Windows XP compatibility setting causes the `.exe` to run as administrator. This requires **Steam to also run as administrator** for the overlay and controller input to be detected.
+## Troubleshooting
+* **Alt-Tabbing:** Uten dgVoodoo2 kjører spillet som eksklusiv "Fullscreen mode" som kan gi flere problemer på moderne windows. Inkludert: svart skjerm i flere sekunder når spillet åpnes og lukkes, endringer i skjermoppsettet, feil farger når man tabber tilbake til spillet, og mer.
+* **Flere skjermer:** Bruk dgVoodoo2 for og tvinge spillet inn i "borderless windowed mode".
+* **Steam Overlay/Controllers:** vis du legger til spillet som et "non-steam game" for å kunne bruke kontrollerkonfigurasjoner, vil kompatibilitetsinnstillingen for Windows XP føre til at `.exe`-filen kjøres som administrator. Dette krever at **også Steam kjøres som administrator** for at Overlay og kontroller skal registreres.
+* * **[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)** - For andre problemer skjekk "glossary pages".
 
 ---
 
 ## Håper og få arkivert
-
 * English (Pinchcliffe Grand Prix)
 * Danish (Bjergkøbing Grand Prix)
 * Swedish
@@ -91,7 +84,7 @@ Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant ann
 ---
 
 ## Eksterne lenker
-* [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) og [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) artikler. Overhalt av meg :)
+* [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) og [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) artikler, shortcuts, savegame location, cheats. Overhalt av meg :)
 * [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Primary source for official updates. [Archive alternative](https://web.archive.org/web/20260000000000*/http://www.caprino.no/pages/oppdateringer.html)
 * [Guide for å finne minigames](https://imgur.com/gallery/Hi9UwkT)
 * [Arkivert Caprino.no](https://web.archive.org/web/*/http://www.caprino.no/pages/*)
@@ -108,7 +101,6 @@ Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant ann
 ---
 
 ## Credits and Contributions
-
 Special thanks to mullemekk on Archive.org for preserving the currently available archival copy.
 
 Thanks to everyone who has contributed information, research, compatibility fixes, and preservation efforts for Norwegian PC games.
@@ -116,7 +108,6 @@ Thanks to everyone who has contributed information, research, compatibility fixe
 Corrections, compatibility reports, and anything else you can think of are welcome.
 
 ## License
-
 * **Documentation & Preservation:** Released under **[The Unlicense](https://unlicense.org/)**.
 * **Third-party software and tools:** Remain subject to their respective licenses.
 * **Replacement or modified executables:** Provided solely for interoperability and preservation purposes and are not affiliated with the original rights holders.
