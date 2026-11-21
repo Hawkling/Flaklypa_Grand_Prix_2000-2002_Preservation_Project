@@ -72,7 +72,7 @@ Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant ann
 * **Alt-Tabbing:** Uten dgVoodoo2 kjører spillet som eksklusiv "Fullscreen mode" som kan gi flere problemer på moderne windows. Inkludert: svart skjerm i flere sekunder når spillet åpnes og lukkes, endringer i skjermoppsettet, feil farger når man tabber tilbake til spillet, og mer.
 * **Flere skjermer:** Bruk dgVoodoo2 for og tvinge spillet inn i "borderless windowed mode".
 * **Steam Overlay/Controllers:** vis du legger til spillet som et "non-steam game" for å kunne bruke kontrollerkonfigurasjoner, vil kompatibilitetsinnstillingen for Windows XP føre til at `.exe`-filen kjøres som administrator. Dette krever at **også Steam kjøres som administrator** for at Overlay og kontroller skal registreres.
-* * **[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)** - For andre problemer skjekk "glossary pages".
+* **[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)** - For andre problemer skjekk "glossary pages".
 
 ---
 
