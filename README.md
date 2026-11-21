@@ -33,6 +33,9 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
 * [Andre akriverte versjoner og nye opplastinger](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix&and%5B%5D=mediatype%3A%22software%22)
 * [Stem på GOG Dreamlist for nyutgivelse!](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000)
 
+*  [Linux guive av tjerandb](https://github.com/tjerandb/Flaklypa_Grand_Prix_2000-2002_Preservation_Project/blob/main/linux.md) - [Linux Gjennom Lutris](https://lutris.net/games/pinchcliffe-grand-prix/)
+* [Mac guide](https://hals.app/blog/fgp-modern/)
+
 ### Installasjonsguide: Gullutgave (2002)
 
 1. Monter CD-filene med [WinCDEmu](https://wincdemu.sysprogs.org/) (eller pakk dem ut med [Universal Extractor](https://github.com/bioruebe/uniextract2)) og installer i denne rekkefølgen:
@@ -57,9 +60,6 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
     * **[GeneralExt](https://imgur.com/a/74R3CFy):** ", aktiver *Borderless*, *Fullscreen size* og *Fake*.
 
 Anbefalt oppsett er nå fullført. **Kos deg :)**
-
-* Linux guide: [Takk til tjerandb](https://github.com/tjerandb/Flaklypa_Grand_Prix_2000-2002_Preservation_Project/blob/main/linux.md) - [Også Gjennom Lutris](https://lutris.net/games/pinchcliffe-grand-prix/)
-* [Mac guide](https://hals.app/blog/fgp-modern/)
 
 ---
 
