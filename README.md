@@ -71,56 +71,6 @@ Hvis offisielle nyutgivelser eller remastere blir tilgjengelige på GOG eller St
 
 Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant annet gjennom Archive.org, spiller alle en viktig rolle i bevaringen av Norges digitale spillhistorie.
 
-### Mer info på bunn av siden.
-
----
-
-### 🇬🇧 Availability of the Game
-
-The original games have never been released digitally and are no longer commercially available. For preservation purposes, community-archived copies are available through Archive.org.
-
-* [Gold edition (2002)](https://archive.org/details/flaklypagullutgave) The guide is for this one.
-* [The original (2000)](https://archive.org/details/flaklypagullutgave) A guide is included.
-* [Other archived versions and new uploads](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix&and%5B%5D=mediatype%3A%22software%22)
-* [Vote on GOG Dreamlist for a rerelease!](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000)
-
-### Installation Guide: Gold Edition (2002)
-
-1. Mount the CD files with [WinCDEmu](https://wincdemu.sysprogs.org/) (or extract with [Universal Extractor](https://github.com/bioruebe/uniextract2)) and install in this order:
-    * FGPGULL1.mdf (CD1 Hvit, white)
-    * FGPGULL2.mdf (CD2 Svart, black)
-    * FGPGULL1.mdf (CD1 Hvit, white) again.
-2. Update with `FGPGOLD_UPD12.exe` - Other updates archived at [FlåklypaFix](https://sites.google.com/view/flaklypafix/)
-3. Replace `FGP.exe` in `C:\Program Files (x86)\Flåklypa Grand Prix` with the modern compatibility [replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases). (same file exists in the archived folder)
-
-> **Basic installation complete. You can play now.** Create a desktop shortcut if desired. 
->
-> If the game does not start, enable Windows XP [compatibility mode](https://imgur.com/pPUNzuL) on the executable.
-
-#### Recommended: Borderless Fullscreen with dgVoodoo2
-
-4. [Download dgVoodoo2](https://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/).
-5. Copy `dgVoodooCpl.exe`, `dgVoodoo.conf`, and files from the `MS\x86` folder (including `DDraw.dll`) to the game folder. (With FGP.exe)
-6. Open `dgVoodooCpl.exe`:
-    * **General:** Scaling mode: *Unspecified* (for 16:9) or *Keep aspect ratio* (for 4:3).
-    * **[DirectX](https://imgur.com/BzplWw1):** Select your desired resolution and turn off "dgVoodoo Watermark."
-    *  [Right-click and select "Show all sections of the configuration."](https://imgur.com/mnglcos)
-    * **[GeneralExt](https://imgur.com/a/74R3CFy):**" Enable *Borderless*, *Fullscreen size*, and *Fake*.
-
-Recommended setup is now complete. **Have fun :)**
-
----
-
-## Preserving Norwegian Video Game History and Digital Cultural Heritage
-
-Many older Norwegian PC games are no longer sold and risk being lost, despite being 100% digital. They are an important part of Norway's digital gaming history.
-
-Games that are no longer sold should be preserved in public archives by the National Library of Norway or similar public institutions, rather than relying on volunteers and Archive.org for long-term preservation.
-
-If official re-releases or remasters become available on GOG or Steam, purchasing them is the best way to support the rights holders. Better availability of older versions may also generate renewed interest in newer releases, such as *[Pinchcliffe Grand Prix (2021)](https://store.steampowered.com/app/3352670)*. Interest in official re-releases can also be shown by voting on the [GOG Dreamlist](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000).
-
-Official re-releases, remasters, public and community archiving, including through Archive.org, all play an important role in preserving Norway's digital gaming history.
-
 ---
 
 ## Troubleshooting & Known Issues
