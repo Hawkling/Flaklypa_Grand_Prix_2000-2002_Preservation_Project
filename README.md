@@ -1,14 +1,13 @@
 # Flåklypa Grand Prix (2000-2002) Preservation Project
 
-Flåklypa Grand Prix Gullutgave (2002) Windows 11 installasjons guide. Spillet i både original versjon (2000) og Gullutgaven (2002) kan lastes ned med arkiv lenkene nedenfor!
+Flåklypa Grand Prix Gullutgave (2002) Windows 11 installasjons guide. Spillet i både original versjon (2000) og Gullutgaven (2002) kan [lastes ned med arkiv lenkene nedenfor!](#### 🇳🇴 Tilgang til spillet (English below))
+Guiden er kun for Gullutgaven, har ikke prøvd eldre versjoner.
 
 ---
 
 Digital preservation and compatibility project for the original PC releases of *Flåklypa Grand Prix* (2000-2002). (English: *Pinchcliffe Grand Prix*).
 
 These games have not been commercially available for many years.
-
-Guide covers only Flåklypa Grand Prix Gullutgave (2002) (Gold Edition). Have not tried the original release (2000) or Jubileumsutgave (2001) (Anniversary Edition).
 
 ---
 
@@ -18,9 +17,9 @@ Guide covers only Flåklypa Grand Prix Gullutgave (2002) (Gold Edition). Have no
 
 This is an unofficial preservation project and is not affiliated with, endorsed by, or sponsored by any rights holder.
 
-The repository does **not include the original game, installation media, or copyrighted game assets.** Links to third-party sources are provided for preservation purposes only. Availability and legality of third-party sources may vary by jurisdiction.
-
 Users are responsible for ensuring they have the legal right to use any software referenced by this project.
+
+The repository does **not include the original game, installation media, or copyrighted game assets.** Links to third-party sources are provided for preservation purposes only. Availability and legality of third-party sources may vary by jurisdiction.
 
 ---
 
