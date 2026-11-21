@@ -83,7 +83,7 @@ Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant ann
 ---
 
 ## Eksterne lenker
-* [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) (shortcuts, savegame location, cheats.) Oppdatert av meg :)
+* [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) (shortcuts, savegame location, cheats.) - Begge oppdatert av meg :)
 * [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Kilde for offisielle oppdateringer - [Caprino.no arkiv alternativ](https://web.archive.org/web/20260000000000*/http://www.caprino.no/pages/oppdateringer.html)
 * [Guide for å finne minigames](https://imgur.com/gallery/Hi9UwkT)
 * [Arkivert Caprino.no](https://web.archive.org/web/*/http://www.caprino.no/pages/*)
