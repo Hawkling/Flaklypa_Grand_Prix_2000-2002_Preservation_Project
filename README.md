@@ -44,11 +44,10 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
 > Hvis spillet ikke starter, bruk Windows XP [kompatibilitetsmodus](https://imgur.com/pPUNzuL) på `.exe`-filen.
 
 #### Anbefalt: Borderless fullscreen med dgVoodoo2
-
 4. [Last ned dgVoodoo2](https://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/)
 5. Kopier `dgVoodooCpl.exe`, `dgVoodoo.conf` og filer fra `MS\x86` (inkl. `DDraw.dll`) til spillmappen. (Sammen med FGP.exe)
 6. Åpne `dgVoodooCpl.exe`:
-    * **General:** Scaling mode: *Unspecified* (16:9) eller *Keep aspect ratio* (4:3).
+    * **General:** Scaling mode: *Unspecified* (16:9) eller *Keep aspect ratio* (4:3). (bilde strekkes i 16:9)
     * **[DirectX](https://imgur.com/BzplWw1):** Velg ønsket oppløsning og slå av "dgVoodoo Watermark".
     * [Høyreklikk, velg "Show all sections of the configuration"](https://imgur.com/mnglcos)
     * **[GeneralExt](https://imgur.com/a/74R3CFy):** ", aktiver *Borderless*, *Fullscreen size* og *Fake*.
@@ -84,8 +83,8 @@ Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant ann
 ---
 
 ## Eksterne lenker
-* [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) og [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) artikler, shortcuts, savegame location, cheats. Overhalt av meg :)
-* [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Primary source for official updates. [Archive alternative](https://web.archive.org/web/20260000000000*/http://www.caprino.no/pages/oppdateringer.html)
+* [Wikipedia](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill)) og [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix) artikler, shortcuts, savegame location, cheats. Oppdatert av meg :)
+* [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Kilde for offisielle oppdateringer - [Caprino.no arkiv alternativ](https://web.archive.org/web/20260000000000*/http://www.caprino.no/pages/oppdateringer.html)
 * [Guide for å finne minigames](https://imgur.com/gallery/Hi9UwkT)
 * [Arkivert Caprino.no](https://web.archive.org/web/*/http://www.caprino.no/pages/*)
 * [Norsk Dub Wiki](https://norske-dubber.fandom.com/no/wiki/Fl%C3%A5klypa_Grand_Prix_(Spill))
@@ -101,11 +100,9 @@ Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant ann
 ---
 
 ## Credits and Contributions
-Special thanks to mullemekk on Archive.org for preserving the currently available archival copy.
+Takk Til mullemekk på Archive.org for den nåværende opplastingen av gullutgaven.
 
-Thanks to everyone who has contributed information, research, compatibility fixes, and preservation efforts for Norwegian PC games.
-
-Corrections, compatibility reports, and anything else you can think of are welcome.
+Takk til alle som hjelper å arkivere norske spill, eller oppdaterer guider og info på nett! 
 
 ## License
 * **Documentation & Preservation:** Released under **[The Unlicense](https://unlicense.org/)**.
