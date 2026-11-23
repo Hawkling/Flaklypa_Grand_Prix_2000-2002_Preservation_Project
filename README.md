@@ -100,9 +100,9 @@ Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant ann
 ---
 
 ## Credits and Contributions
-Takk Til mullemekk på Archive.org for den nåværende opplastingen av gullutgaven.
+Takk til mullemekk på Archive.org for den nåværende opplastingen av gullutgaven.
 
-Takk til alle som hjelper å arkivere norske spill, eller oppdaterer guider og info på nett! 
+Takk til alle som hjelper å arkivere norske spill, eller gir ut info på nett!
 
 ## License
 * **Documentation & Preservation:** Released under **[The Unlicense](https://unlicense.org/)**.
