@@ -27,7 +27,7 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
 
 * [Gullutgave (2002)](https://archive.org/details/flaklypagullutgave) Guiden er for denne.
 * [Originalen (2000)](https://archive.org/details/flaklypa-grand-prix-cracket) Guide følger med.
-* [Andre akriverte versjoner og nye opplastinger](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix&and%5B%5D=mediatype%3A%22software%22)
+* [Andre arkiverte versjoner og nye opplastinger](https://archive.org/search?query=Fl%C3%A5klypa+Grand+Prix&and%5B%5D=mediatype%3A%22software%22)
 * [Stem på GOG Dreamlist for nyutgivelse!](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000)
 * Uten Windows: [Linux guide av tjerandb](https://github.com/tjerandb/Flaklypa_Grand_Prix_2000-2002_Preservation_Project/blob/main/linux.md) - [Linux gjennom Lutris](https://lutris.net/games/pinchcliffe-grand-prix/) - [Mac guide](https://hals.app/blog/fgp-modern/)
 
@@ -36,7 +36,7 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
     * FGPGULL1.mdf (CD1 Hvit)
     * FGPGULL2.mdf (CD2 Svart)
     * FGPGULL1.mdf (CD1 Hvit) igjen.
-2. Oppdater med `FGPGOLD_UPD12.exe` - Andre oppdateringer akrivert på [FlåklypaFix](https://sites.google.com/view/flaklypafix/)
+2. Oppdater med `FGPGOLD_UPD12.exe` - Andre oppdateringer arkivert på [FlåklypaFix](https://sites.google.com/view/flaklypafix/)
 3. Erstatt `FGP.exe` i `C:\Program Files (x86)\Flåklypa Grand Prix` med [den moderne versjonen - replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases). (samme filen er i arkiv mappen)
 
 > **Grunnleggende installasjon fullført. Du kan spille nå.** Lag gjerne en snarvei til skrivebordet. 
@@ -47,10 +47,10 @@ De originale spillene har aldri blitt utgitt digitalt og er ikke lenger kommersi
 4. [Last ned dgVoodoo2](https://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/)
 5. Kopier `dgVoodooCpl.exe`, `dgVoodoo.conf` og filer fra `MS\x86` (inkl. `DDraw.dll`) til spillmappen. (Sammen med FGP.exe)
 6. Åpne `dgVoodooCpl.exe`:
-    * **General:** Scaling mode: *Unspecified* (16:9) eller *Keep aspect ratio* (4:3). (bilde strekkes i 16:9)
+    * **General:** Scaling mode: *Unspecified* (16:9) eller *Keep aspect ratio* (4:3). - Bilde strekkes med 16:9
     * **[DirectX](https://imgur.com/BzplWw1):** Velg ønsket oppløsning og slå av "dgVoodoo Watermark".
     * [Høyreklikk, velg "Show all sections of the configuration"](https://imgur.com/mnglcos)
-    * **[GeneralExt](https://imgur.com/a/74R3CFy):** ", aktiver *Borderless*, *Fullscreen size* og *Fake*.
+    * **[GeneralExt](https://imgur.com/a/74R3CFy):** aktiver *Borderless*, *Fullscreen size* og *Fake*.
 
 Anbefalt oppsett er nå fullført. **Kos deg :)**
 
@@ -63,22 +63,22 @@ Spill som ikke lenger selges bør bevares og bli offentlig arkivert av Nasjonalb
 
 Hvis offisielle nyutgivelser eller remastere blir tilgjengelige på GOG eller Steam, er den beste måten å støtte rettighetshaverne på å kjøpe disse. Bedre tilgjengelighet av eldre versjoner kan også skape økt interesse for nyere utgivelser, som *[Flåklypa Grand Prix (2021)](https://store.steampowered.com/app/3352670)*. Interesse for offisielle nyutgivelser kan også vises ved å stemme på [GOG Dreamlist](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000).
 
-Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant annet gjennom Archive.org, spiller alle en viktig rolle i bevaringen av Norges digitale spillhistorie.
+Offisielle nyutgivelser, remastere, offentlig og frivillig arkivering, blant annet gjennom Archive.org spiller alle en viktig rolle i bevaringen av Norges digitale spillhistorie.
 
 ---
 
 ## Troubleshooting
 * **Alt-Tabbing:** Uten dgVoodoo2 kjører spillet som eksklusiv "Fullscreen mode" som kan gi flere problemer på moderne windows. Inkludert: svart skjerm i flere sekunder når spillet åpnes og lukkes, endringer i skjermoppsettet, feil farger når man tabber tilbake til spillet, og mer.
-* **Flere skjermer:** Bruk dgVoodoo2 for og tvinge spillet inn i "borderless windowed mode".
-* **Steam Overlay/Controllers:** Hvis du legger til spillet som et "non-steam game" for å kunne bruke kontrollerkonfigurasjoner, vil kompatibilitetsinnstillingen for Windows XP føre til at `.exe`-filen kjøres som administrator. Dette krever at **også Steam kjøres som administrator** for at Overlay og kontroller skal registreres.
-* **[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)** - For andre problemer skjekk "glossary pages".
+* **Flere skjermer:** Bruk dgVoodoo2 for å tvinge spillet inn i "borderless windowed mode".
+* **Steam overlay/Controllers:** Hvis du legger til spillet som et "non-steam game" for å kunne bruke kontrollerkonfigurasjoner, vil kompatibilitetsinnstillingen for Windows XP føre til at `.exe`-filen kjøres som administrator. Dette krever at **også Steam kjøres som administrator** for at Overlay og kontroller skal registreres.
+* **[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)** - For andre problemer sjekk "glossary pages".
 
 ---
 
-## Håper og få arkivert
-* English (Pinchcliffe Grand Prix)
-* Danish (Bjergkøbing Grand Prix)
-* Swedish
+## Håper å få arkivere
+* Engelsk (Pinchcliffe Grand Prix)
+* Dansk (Bjergkøbing Grand Prix)
+* Svensk (Flåklypa Grand Prix)
 
 ---
 
